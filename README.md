@@ -1,6 +1,14 @@
 sEditor
 =======
 
+![foto1](screenshots/sEditor.png)
+
+## Install and run
+```
+$ git clone [https://github.com/mhcrnl/simple-text-editor-2](https://github.com/mhcrnl/simple-text-editor-2)
+$ java -jar sEditor.jar
+```
+
 Introduction
 ------------
 This is a simple text editor with multiple document interface (MDI), built in Java using the Swing classes. A tabbed pane has been implemented for working with many files at once.
