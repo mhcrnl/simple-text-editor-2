@@ -4,8 +4,9 @@ sEditor
 ![foto1](screenshots/sEditor.png)
 
 ## Install and run
+
 ```
-$ git clone [https://github.com/mhcrnl/simple-text-editor-2](https://github.com/mhcrnl/simple-text-editor-2)
+$ git clone [https://github.com/mhcrnl/simple-text-editor-2.git](https://github.com/mhcrnl/simple-text-editor-2.git)
 $ java -jar sEditor.jar
 ```
 
@@ -45,6 +46,10 @@ Project contents:
 The text editor can be run from the command-line by executing:
      `java -jar sEditor.jar`,
 provided java is present in the system path. Else full path to java executable has to be given
+
+## Site
+[http://javatexteditor.blogspot.ro/](http://javatexteditor.blogspot.ro/)
+
 
 License
 --------
